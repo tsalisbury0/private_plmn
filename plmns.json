@@ -6,5 +6,6 @@
   { "mcc": "313", "mnc": "100", "brand": "FirstNet" },
   { "mcc": "313", "mnc": "700", "brand": "Ameren" },
   { "mcc": "310", "mnc": "830", "brand": "T-Satellite" },
+  { "mcc": "311", "mnc": "570", "brand": "Mediacom" },
   { "mcc": "312", "mnc": "190", "brand": "T-911" }
 ]
