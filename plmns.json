@@ -9,5 +9,8 @@
   { "mcc": "311", "mnc": "570", "brand": "Mediacom" },
   { "mcc": "313", "mnc": "780", "brand": "Windstream" },
   { "mcc": "901", "mnc": "98", "brand": "Skylo", "satellite": true },
+  { "mcc": "901", "mnc": "97", "brand": "Sateliot", "satellite": true },
+  { "mcc": "901", "mnc": "03", "brand": "Iridium", "satellite": true },
+  { "mcc": "901", "mnc": "57", "brand": "SpaceMobile", "satellite": true },
   { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true }
 ]
