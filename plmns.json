@@ -12,5 +12,14 @@
   { "mcc": "901", "mnc": "97", "brand": "Sateliot", "satellite": true },
   { "mcc": "901", "mnc": "03", "brand": "Iridium", "satellite": true },
   { "mcc": "901", "mnc": "57", "brand": "SpaceMobile", "satellite": true },
+  { "mcc": "314", "mnc": "590", "brand": "Lynk Global", "satellite": true },
+  { "mcc": "901", "mnc": "10", "brand": "Omnispace", "satellite": true },
+  { "mcc": "901", "mnc": "50", "brand": "EchoStar", "satellite": true },
+  { "mcc": "901", "mnc": "05", "brand": "Thuraya", "satellite": true },
+  { "mcc": "901", "mnc": "06", "brand": "Thuraya", "satellite": true },
+  { "mcc": "901", "mnc": "11", "brand": "Inmarsat", "satellite": true },
+  { "mcc": "901", "mnc": "09", "brand": "China SAT", "satellite": true },
+  { "mcc": "901", "mnc": "29", "brand": "Myriota", "satellite": true },
+  { "mcc": "901", "mnc": "30", "brand": "OQ Technology", "satellite": true },
   { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true }
 ]
