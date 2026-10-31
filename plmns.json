@@ -8,5 +8,6 @@
   { "mcc": "310", "mnc": "830", "brand": "T-Satellite", "satellite": true },
   { "mcc": "311", "mnc": "570", "brand": "Mediacom" },
   { "mcc": "313", "mnc": "780", "brand": "Windstream" },
+  { "mcc": "901", "mnc": "98", "brand": "Skylo", "satellite": true },
   { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true }
 ]
