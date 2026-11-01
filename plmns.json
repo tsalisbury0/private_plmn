@@ -21,5 +21,6 @@
   { "mcc": "901", "mnc": "09", "brand": "China SAT", "satellite": true },
   { "mcc": "901", "mnc": "29", "brand": "Myriota", "satellite": true },
   { "mcc": "901", "mnc": "30", "brand": "OQ Technology", "satellite": true },
+  { "mcc": "901", "mnc": "24", "brand": "Globalstar", "satellite": true },
   { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true }
 ]
