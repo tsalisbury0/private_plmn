@@ -23,5 +23,7 @@
   { "mcc": "901", "mnc": "30", "brand": "OQ Technology", "satellite": true },
   { "mcc": "901", "mnc": "24", "brand": "Globalstar", "satellite": true },
   { "mcc": "313", "mnc": "210", "brand": "SpaceMobile AT&T", "satellite": true },
-  { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true }
+  { "mcc": "312", "mnc": "190", "brand": "T-911", "satellite": true },
+  { "mcc": "216", "mnc": "30", "brand": "Telekom HU" },
+  { "mcc": "216", "mnc": "70", "brand": "One HU" }
 ]
